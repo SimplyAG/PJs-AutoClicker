@@ -1,0 +1,15 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.vscode/
+*.swp
